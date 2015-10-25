@@ -1,0 +1,36 @@
+"My Carrom" is a simple game based on carrom.
+
+The rules are pretty simple:
+
+1. Player chooses the number of coins of each color
+2. Color he/she wants to play for
+3. Difficulty level i.e. roughness of the surface
+4. Timer
+5. Score decrements by one every 5 seconds
+6. It is necessary to pocket the queen before pocketing all coins of his/her color
+7. Other color's coin is placed at the center if pocketed
+
+Points:
+
++10 for pocketing coin of his color
+-5 for pocketing coin of other color
++50 for pocketing coin of queen
+-10 for pocketing coin of striker
+
+User inputs for striker(moves):
+
+a to change direction anticlockwise
+d to change the direction clockwise
+left key to move striker leftwards
+right key to move striker rightwards
+spacebar to shoot
+
+Mouse inputs:
+
+left button press: set the direction for the striker
+left button release: shoot
+right button press: move the striker horizontally 
+cursor up and down: increase and decrease the speed
+ 
+
+ 
