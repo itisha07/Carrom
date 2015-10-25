@@ -1,8 +1,8 @@
 CC = g++
 CFLAGS = -Wall
-PROG = carrom
+PROG = ass1
 
-SRCS = carrom.cpp
+SRCS = ass1.cpp
 LIBS = -lglut -lGL -lGLU
 
 all: $(PROG)
